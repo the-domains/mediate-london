@@ -1,0 +1,28 @@
+name: mediate.london
+favicon: null
+layout_spectrum: 0.682981925085187
+typography_spectrum: 0.09428170532919466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8543454799801111
+  lightness: 0.7689123782329261
+  saturation: 0.603721046121791
+  rhythmicContrast: 0.1747684001456946
+purpose: []
